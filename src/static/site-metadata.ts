@@ -10,9 +10,9 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteTitle: 'Weizhenyu Running',
+  siteUrl: 'https://weizhenyu0310.github.io/running/',
+  logo: 'http://img-20210107.oss-cn-beijing.aliyuncs.com/img/微信截图_20241231155119.png',
   description: 'Personal site and blog',
   navLinks: [
     {
